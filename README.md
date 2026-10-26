@@ -11,7 +11,7 @@ Demo video (89 seconds): https://youtu.be/evDIHMLNits
 SL_Ai puts a tutor, a maths solver and a planner in one app that runs with the device in airplane mode.
 
 - **Offline tutor.** Chat or talk to a Qwen 2.5 AI that runs on the device and knows the learner's progress.
-- **Exact solver.** Step by step maths and physics up to university level, with graphs. Our own maths engine works out the answer, and the AI only explains it.
+- **Exact solver.** Exact school maths step by step, with graphs. Our own maths engine works out the answer, and the AI explains it and handles harder topics.
 - **Check my working.** Scan your pages of working and SL_Ai shows the exact line that went wrong, with a tip.
 - **Lessons that adapt.** SL_Ai learns which teaching style works for each subject (worked example first, picture it, story and more).
 - **Exam booth, Doc Master, review cards, mastery map and a weekly progress report** for parents and teachers.
